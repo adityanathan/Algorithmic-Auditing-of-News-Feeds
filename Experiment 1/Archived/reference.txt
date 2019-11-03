@@ -1,0 +1,6 @@
+1) https://stackoverflow.com/questions/22196248/gensim-lda-model-calling-update-on-a-corpus-with-unseen-words
+2) https://github.com/RaRe-Technologies/gensim/wiki/Recipes-&-FAQ#q8-how-can-i-filter-a-saved-corpus-and-its-corresponding-dictionary
+3) https://groups.google.com/forum/#!msg/gensim/2KzJNYQSJxA/JLk50dIMFQAJ
+4) https://groups.google.com/forum/#!searchin/gensim/lda.update|sort:date/gensim/AYDjMIywMas/AJ7SOodEBwAJ
+5) https://groups.google.com/forum/#!msg/gensim/T0GMxE7YZqM/7rY-sxwaMAAJ
+6) 
