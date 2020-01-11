@@ -18,11 +18,18 @@ Preprocess your data using this code and save it
 in a pickle file so you can reuse it later.
 '''
 
+input_file = 'data/massmedia-data/farmers_date_indexed.pkl'
+output_file = 'data/preprocessed_data/corpus_dict/farmers_corp.pkl'
 
 print('Loading Documents.....')
 documents = []
-with open('doc_alerts_and_mass.pkl', 'rb') as f:
-    documents = pickle.load(f)
+with open(input_file, 'rb') as f:
+    docs,_ = pickle.load(f)
+    for i in docs:
+        documents.append(i['text'])
+        
+print('Sample Document')
+print(documents[250])
 
 print('Simple Preprocessing')
 # Document Preprocessing
@@ -71,5 +78,5 @@ print('Converting corpus using dictionary')
 corpus = [id2word.doc2bow(text) for text in data_lemmatized]
 
 # Save Data in pickle file
-with open('corp.pkl', 'wb') as f:
+with open(output_file, 'wb') as f:
     pickle.dump((data_lemmatized, id2word, corpus), f)

@@ -1,0 +1,74 @@
+('Exception with '
+ 'URL:https://www.reuters.com/article/india-stocks/indian-shares-rise-in-line-with-asia-banks-lead-idUSL3N20K2D4')
+("Article `download()` failed with HTTPSConnectionPool(host='www.reuters.com', "
+ 'port=443): Read timed out. (read timeout=7) on URL '
+ 'https://www.reuters.com/article/india-stocks/indian-shares-rise-in-line-with-asia-banks-lead-idUSL3N20K2D4')
+('Exception with '
+ 'URL:https://www.deccanherald.com/state/state-govt-lax-sharing-farmers-720150.html')
+('Article `download()` failed with 404 Client Error: Not Found for url: '
+ 'https://www.deccanherald.com/404.html on URL '
+ 'https://www.deccanherald.com/state/state-govt-lax-sharing-farmers-720150.html')
+('Exception with '
+ 'URL:https://milbankmonitor.com/karnataka-to-get-its-first-fertiliser-plant-in-cooperative-sector-at-davangere/25/02/2019/')
+('Article `download()` failed with '
+ "HTTPSConnectionPool(host='milbankmonitor.com', port=443): Max retries "
+ 'exceeded with url: '
+ '/karnataka-to-get-its-first-fertiliser-plant-in-cooperative-sector-at-davangere/25/02/2019/ '
+ "(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection "
+ 'object at 0x1079cae50>: Failed to establish a new connection: [Errno 61] '
+ "Connection refused')) on URL "
+ 'https://milbankmonitor.com/karnataka-to-get-its-first-fertiliser-plant-in-cooperative-sector-at-davangere/25/02/2019/')
+('Exception with '
+ 'URL:https://www.thelocal.it/20190225/why-are-sardinia-dairy-farmers-dumping-milk-in-the-streets')
+("Article `download()` failed with HTTPSConnectionPool(host='www.thelocal.it', "
+ 'port=443): Read timed out. (read timeout=7) on URL '
+ 'https://www.thelocal.it/20190225/why-are-sardinia-dairy-farmers-dumping-milk-in-the-streets')
+('Exception with '
+ 'URL:https://www.euractiv.com/section/politics/news/the-capitals-uk-should-avoid-quick-trade-deal-with-the-us/')
+('Article `download()` failed with '
+ "HTTPSConnectionPool(host='www.euractiv.com', port=443): Read timed out. "
+ '(read timeout=7) on URL '
+ 'https://www.euractiv.com/section/politics/news/the-capitals-uk-should-avoid-quick-trade-deal-with-the-us/')
+('Exception with '
+ 'URL:https://www.businessdailyafrica.com/datahub/State-cash-top-up-to-Helb-triples/3815418-4999142-f1sp0e/index.html')
+('Article `download()` failed with '
+ "HTTPSConnectionPool(host='www.businessdailyafrica.com', port=443): Read "
+ 'timed out. (read timeout=7) on URL '
+ 'https://www.businessdailyafrica.com/datahub/State-cash-top-up-to-Helb-triples/3815418-4999142-f1sp0e/index.html')
+('Exception with '
+ 'URL:https://kreviewer.com/2019/02/25/today-feb-25-invesco-dynamic-biotech-genome-etf-pbe-increases-5-38/')
+("Article `download()` failed with HTTPSConnectionPool(host='kreviewer.com', "
+ 'port=443): Max retries exceeded with url: '
+ '/2019/02/25/today-feb-25-invesco-dynamic-biotech-genome-etf-pbe-increases-5-38/ '
+ '(Caused by SSLError(SSLError("bad handshake: Error([(\'SSL routines\', '
+ '\'tls_process_server_certificate\', \'certificate verify failed\')])"))) on '
+ 'URL '
+ 'https://kreviewer.com/2019/02/25/today-feb-25-invesco-dynamic-biotech-genome-etf-pbe-increases-5-38/')
+('Exception with '
+ 'URL:https://www.euractiv.com/section/politics/news/the-capitals-uk-should-avoid-quick-trade-deal-with-the-us/')
+('Article `download()` failed with '
+ "HTTPSConnectionPool(host='www.euractiv.com', port=443): Read timed out. "
+ '(read timeout=7) on URL '
+ 'https://www.euractiv.com/section/politics/news/the-capitals-uk-should-avoid-quick-trade-deal-with-the-us/')
+('Exception with '
+ 'URL:https://enbulletin.com/2019/02/25/big-moneys-pro-euronet-worldwide-inc-nasdaqeeft-sentiment-in-2018-q3-now-at-1-2/')
+("Article `download()` failed with HTTPSConnectionPool(host='enbulletin.com', "
+ 'port=443): Max retries exceeded with url: '
+ '/2019/02/25/big-moneys-pro-euronet-worldwide-inc-nasdaqeeft-sentiment-in-2018-q3-now-at-1-2/ '
+ '(Caused by SSLError(SSLError("bad handshake: Error([(\'SSL routines\', '
+ '\'tls_process_server_certificate\', \'certificate verify failed\')])"))) on '
+ 'URL '
+ 'https://enbulletin.com/2019/02/25/big-moneys-pro-euronet-worldwide-inc-nasdaqeeft-sentiment-in-2018-q3-now-at-1-2/')
+('Exception with '
+ 'URL:https://www.business-standard.com/article/economy-policy/fiscal-deficit-breaches-full-year-target-by-21-5-in-10-months-119022601280_1.html')
+('Article `download()` failed with 500 Server Error: Internal Server Error for '
+ 'url: '
+ 'https://www.business-standard.com/article/economy-policy/fiscal-deficit-breaches-full-year-target-by-21-5-in-10-months-119022601280_1.html '
+ 'on URL '
+ 'https://www.business-standard.com/article/economy-policy/fiscal-deficit-breaches-full-year-target-by-21-5-in-10-months-119022601280_1.html')
+('Exception with '
+ 'URL:https://www.livemint.com/money/personal-finance/how-the-gst-rate-reduction-will-impact-property-prices-1551111008025.html')
+('Article `download()` failed with '
+ "HTTPSConnectionPool(host='www.livemint.com', port=443): Read timed out. "
+ '(read timeout=7) on URL '
+ 'https://www.livemint.com/money/personal-finance/how-the-gst-rate-reduction-will-impact-property-prices-1551111008025.html')
