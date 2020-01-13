@@ -1,7 +1,7 @@
 # Algorithmic-Auditing-of-News-Feeds
 This is a respository of code written for a project done under Prof. Aaditeshwar Seth at ACT4D Lab @ IIT-D
 
-### Instructions to Lab Members of ICTD for reproducing code:
+### Instructions to Lab Members of ICTD Lab for reproducing code:
 * To generate initial data, run db_extract.ipynb first and then preprocess.py.
 * To run experiment 3,
     * Execute extract_text&index.ipynb
