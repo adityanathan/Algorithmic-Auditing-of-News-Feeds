@@ -68,7 +68,7 @@ def calc_confusion_matrix(model1, model2, corpus1, doc_max=True):
                     for prob in model2[corpus1]]
     # print(lda_corpus_1 == lda_corpus_2)
 
-    print('Corpus 1 Length - ', len(lda_corpus_1))
+#     print('Corpus 1 Length - ', len(lda_corpus_1))
     # print('Corpus 2 Length - ', len(lda_corpus_2))
     # max_corpus_size = max(len(lda_corpus_1), len(lda_corpus_2))
     # min_corpus_size = min(len(lda_corpus_1), len(lda_corpus_2))
